@@ -169,3 +169,14 @@
     align-items: center;
   }
 }
+
+@media all and (max-width: 750px) {
+  .navbar__list,
+  .navbar__input {
+    display: none;
+  }
+
+  .navbar__btn_burger {
+    display: block;
+  }
+}
