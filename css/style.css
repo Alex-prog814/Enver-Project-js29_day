@@ -231,7 +231,13 @@ header {
   display: block;
   margin: 50px auto 0;
 }
-/* portfoli styles end */
+
+.portfolio__icon_second {
+  display: block;
+  margin: 50px auto 0;
+  display: none;
+}
+/* portfolio styles end */
 
 /* info-block styles start */
 .info-block {
